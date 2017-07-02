@@ -1,15 +1,23 @@
 ## Phil Lang
 
-[Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Blog](http://langp.me)
+[Skills](#skills) | [Experience](#experience) | [Education](#education) | [Projects](#projects) | [Interests](#interests) | [Blog](http://langp.me)
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Hello, I’m Phil. I’m a Web Developer and Creative Producer based in London and sometimes Dublin.
 
-## Links
+I’m a creative at heart. I’m also a bit of a data and privacy nerd. I aim to wield tech for good.
 
-- LinkedIn - up to date work experience
-- Website - Where I sometimes write and showcase projects
-- Github - you know the score
-- Twitter - falling out of love with Twitter, but here you are
+I’ve been living in London for the last 6 years. In that time I’ve worked with some amazing teams on challenges surrounding [open data](https://theodi.org/) and [privacy / security](https://projectsbyif.com/).
+
+Until recently I was a Developer at [Projects by IF](https://projectsbyif.com/). Right now I’m freelancing as a Developer and Creative Producer while polishing some of my technical skills.
+
+If you're interested and think that you've a role / project you'd like to talk to me about, then drop me a line - [plangphoto@gmail.com](mailto:plangphoto@gmail.com).
+
+#### A few links
+
+- [Website](http://langp.me) - Where I sometimes write and showcase projects
+- [LinkedIn](https://www.linkedin.com/in/langphil/) - up to date work experience
+- [Github](https://github.com/langphil) - you know the score
+- [Twitter](https://twitter.com/langphil) - falling out of love with Twitter, but here you are
 
 ## Skills
 
@@ -29,6 +37,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
+
+#### Additional Skills
+
+## Projects
+
+Project title  | Description  									| Development timeframe | Technologies | Testing
+------------- | ------------------------------	| ------------- |------------- |---------
+[Irish Ships](https://github.com/quizzbuzz/quizzbuzz) | A Twitter bot that is tweeting the details of every person to arrive in New York harbor via sea during the years of the Great Irish Famine. It's going to take 30 years to complete. Hopefully Twitter won't be around at the point. Read the blog post about it [here](https://langp.me/blog/2016/09/01/humanising-data-with-irish-ships/)! | 2 days | Python, Web Scraping, Beautiful Soup, Text Wrangling, Tweepy, Twitter API
+[RainPi](https://github.com/langphil/Rain-pi) | A prototype physical object that signifies via a blue LED when rain is due in the next few hours. It lives in the peripheries of your home environment, unobtrusive yet serving a useful function. Read the blog post about it [here](https://langp.me/blog/2016/05/01/how-to-avoid-rain-with-data/)! | 3 days | Python, API, Raspberry Pi, Electronics, Soldering, Design
 
 ## Experience
 
@@ -55,20 +72,24 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### University College Dublin (August 2010 - May 2011)
 
-- Masters in Media & International Conflict
+- Masters Degree - Media & International Conflict
 - Grade - 1:1
 - Focused upon photography as a medium for communication
 - Focused upon U.S foreign policy and the Middle East
 
 #### Dun Laogharie Institute of Art, Design and Technology (August 2005 - May 2009)
 
-- Photography / Fine art
+- Bachelors Degree - Photography / Fine art
 - Grade - 1:1
 - Focused primarily upon analogue imaging techniques
 - Deep understanding of identity politics and visual representation
 - Thematically working around concepts of memory, identity, death and the metaphysical
 
 #### Any other qualifications
+
+- Completed a photofilm production course ([DuckRabbit](https://www.duckrabbit.info/))
+- Proficient in Adobe Creative Suite
+- I'm a dab hand in a pinch with Design software (print and digital)
 
 ## Interests
 
