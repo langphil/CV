@@ -37,7 +37,7 @@ My experience has typically been in Front End Web Development. Employing technol
 
 At the moment I'm focussed on Object Orientated Programming. I've previously employed languages like Python when working on personal projects.
 
-Some self initiated projects that you may be interested in can be found in the [[Projects](#projects) section below.
+Some self initiated projects that you may be interested in can be found in the [Projects](#projects) section below.
 
 #### Delivery
 
