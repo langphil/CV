@@ -17,7 +17,7 @@ If you're interested in any of the above and think that you've a role / project 
 - [Website](http://langp.me) - Where I sometimes write and showcase projects
 - [LinkedIn](https://www.linkedin.com/in/langphil/) - up to date work experience
 - [Github](https://github.com/langphil) - you know the score
-- [Twitter](https://twitter.com/langphil) - falling out of love with Twitter, but here you are
+- [Twitter](https://twitter.com/langphil) - Tweet, Tweet
 
 ## Skills
 
@@ -31,7 +31,7 @@ As I have spent time in two early stage companies where processes were being est
 
 #### Technical Ability
 
-Technology is a tool. In the same way that a camera gives me the ability to act creatively, so to does Technology.
+Technology is a tool. In the same way that a camera gives me the ability to act creatively, so to0 does Technology.
 
 My experience has typically been in Front End Web Development. Employing technologies like WordPress Multisite and Static Site generators like Jekyll. I also have experience in design, paper prototyping and rapid development of HTML prototypes.
 
@@ -119,7 +119,6 @@ Project title  | Description  									| Development timeframe | Technologies | 
 
 - Completed a photofilm production course ([DuckRabbit](https://www.duckrabbit.info/))
 - Proficient in Adobe Creative Suite
-- I'm a dab hand in a pinch with Design software (print and digital)
 
 ## Interests
 
