@@ -1,6 +1,6 @@
 ## Phil Lang
 
-[Skills](#skills) | [Experience](#experience) | [Education](#education) | [Projects](#projects) | [Interests](#interests) | [Blog](http://langp.me)
+[Skills](#skills) | [Experience](#experience) | [Education](#education) | [Projects](#projects) | [Interests](#interests) | [Blog](https://langp.me/blog/)
 
 Hello, I’m Phil. I’m a Web Developer and Creative Producer based in London and sometimes Dublin.
 
@@ -10,7 +10,7 @@ I’ve been living in London for the last 6 years. In that time I’ve worked wi
 
 Until recently I was a Developer at [Projects by IF](https://projectsbyif.com/). Right now I’m freelancing as a Developer and Creative Producer while polishing some of my technical skills.
 
-If you're interested and think that you've a role / project you'd like to talk to me about, then drop me a line - [plangphoto@gmail.com](mailto:plangphoto@gmail.com).
+If you're interested in any of the above and think that you've a role / project you'd like to talk to me about, then drop me a line - [plangphoto@gmail.com](mailto:plangphoto@gmail.com).
 
 #### A few links
 
@@ -21,24 +21,36 @@ If you're interested and think that you've a role / project you'd like to talk t
 
 ## Skills
 
-#### This Skill
+#### Creativity
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I lean towards creativity and enjoy making and breaking things (and then quickly fixing them). The level of creativity that I work on is spread across both the creation of content / projects / systems and straight forward problem solving.
 
-- Experience
-- Achievements
-- Evidence
+Taking a look at the projects attached to my [LinkedIn](https://www.linkedin.com/in/langphil/) profile and the ones showcased on my [Blog](https://langp.me/blog/) will give you a better idea of my focus.
 
-#### Another Skill
+As I have spent time in two early stage companies where processes were being established I was able to wield my creativity to try new ways of doing things and enshrine them in new systems and processes.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Technical Ability
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+Technology is a tool. In the same way that a camera gives me the ability to act creatively, so to does Technology.
+
+My experience has typically been in Front End Web Development. Employing technologies like WordPress Multisite and Static Site generators like Jekyll. I also have experience in design, paper prototyping and rapid development of HTML prototypes.
+
+At the moment I'm focussed on Object Orientated Programming. I've previously employed languages like Python when working on personal projects.
+
+Some self initiated projects that you may be interested in can be found in the [[Projects](#projects) section below.
+
+#### Delivery
+
+All of the skills above that I have mentioned can quickly become useless if you are unable to deliver.
+I've a long track record of working in busy work environments with multiple projects that have distinct delivery times.
+
+My time at the ODI was one full of diversity of projects, that crossed a spectrum of technical, content production, administrative, and event production. Context switching was a common feature of my days. Managing these projects and ensuring delivery on time was a skill I developed and continue to hone.
 
 #### Additional Skills
+
+- Learning: "Always be learning" is a life approach I adopt. I'm keen to pick up new skills and understand how the world works.
+- Listening: I enjoy other people and their stories. Listening is an important skill and I try to put a lot of emphasis on it.
+- Living: I pause to stop and breath. It's a good skill.
 
 ## Projects
 
@@ -49,26 +61,34 @@ Project title  | Description  									| Development timeframe | Technologies | 
 
 ## Experience
 
-**InfoNation** (May 2017 - Ongoing)   
+**InfoNation** (May 2017 - Ongoing)
+
 *Associate Creative Technologist*
+
 - Web Development and identity / brand shaping
 
-**Projects By IF** (September 2016 - March 2017)   
+**Projects By IF** (September 2016 - March 2017)
+
 *Developer*
+
 - Six month interim position
 - Rapidly creating digital prototypes that explored issues around privacy and security of consumers
 - Developed prototypes that explored the implications of the upcoming GDPR EU legislation
 
-**Open Data Institute** (June 2013 - August 2016)   
+**Open Data Institute** (June 2013 - August 2016)
+
 *Digital Production Editor*
+
 - Present from the early days of this startup, helping shape content and effect cultural change around concepts of 'open', 'closed' and 'shared'.
 - Mix of responsibilities that changed with the demand of this growing organization
 - Primarily responsible for the production of mission focussed learning and commercial content
 - Front End Developer experience. Built and maintained a Wordpress multisite installation. Worked with a GDS forked CMS and website.
 - Event production (ODI Summit 13/14/15)
 
-**CityWire** (August 2011 - June 2013)    
+**CityWire** (August 2011 - June 2013)
+
 *Picture Editor*
+
 - Acting a the principal team member working on visual representation of editorial content.
 
 ## Education
