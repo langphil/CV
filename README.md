@@ -121,7 +121,7 @@ Project title  | Description  									| Development timeframe | Technologies | 
 - Proficient in Adobe Creative Suite
 - I'm a dab hand in a pinch with Design software (print and digital)
 
-## Interests
+## Interests
 
 - I'm a avid runner. I once ran a marathon in Uganda. It was fun. It was dusty. The people were lovely.
 - I love exploring the world through the lens of a camera
