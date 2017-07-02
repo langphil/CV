@@ -44,7 +44,7 @@ Some self initiated projects that you may be interested in can be found in the [
 All of the skills above that I have mentioned can quickly become useless if you are unable to deliver.
 I've a long track record of working in busy work environments with multiple projects that have distinct delivery times.
 
-My time at the ODI was one full of diversity of projects, that crossed a spectrum of technical, content production, administrative, and event production. Context switching was a common feature of my days. Managing these projects and ensuring delivery on time was a skill I developed and continue to hone.
+My time at the ODI was one full of a diversity of projects, that crossed a spectrum of technical, content production, administrative, and event production. Context switching was a common feature of my days. Managing these projects and ensuring delivery on time was a skill I developed and continue to hone.
 
 #### Additional Skills
 
