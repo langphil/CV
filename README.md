@@ -51,15 +51,25 @@ Project title  | Description  									| Development timeframe | Technologies | 
 
 **InfoNation** (May 2017 - Ongoing)   
 *Associate Creative Technologist*
+- Web Development and identity / brand shaping
 
 **Projects By IF** (September 2016 - March 2017)   
 *Developer*
+- Six month interim position
+- Rapidly creating digital prototypes that explored issues around privacy and security of consumers
+- Developed prototypes that explored the implications of the upcoming GDPR EU legislation
 
 **Open Data Institute** (June 2013 - August 2016)   
 *Digital Production Editor*
+- Present from the early days of this startup, helping shape content and effect cultural change around concepts of 'open', 'closed' and 'shared'.
+- Mix of responsibilities that changed with the demand of this growing organization
+- Primarily responsible for the production of mission focussed learning and commercial content
+- Front End Developer experience. Built and maintained a Wordpress multisite installation. Worked with a GDS forked CMS and website.
+- Event production (ODI Summit 13/14/15)
 
 **CityWire** (August 2011 - June 2013)    
 *Picture Editor*
+- Acting a the principal team member working on visual representation of editorial content.
 
 ## Education
 
