@@ -31,7 +31,7 @@ As I have spent time in two early stage companies where processes were being est
 
 #### Technical Ability
 
-Technology is a tool. In the same way that a camera gives me the ability to act creatively, so to0 does Technology.
+Technology is a tool. In the same way that a camera gives me the ability to act creatively, so to does Technology.
 
 My experience has typically been in Front End Web Development. Employing technologies like WordPress Multisite and Static Site generators like Jekyll. I also have experience in design, paper prototyping and rapid development of HTML prototypes.
 
